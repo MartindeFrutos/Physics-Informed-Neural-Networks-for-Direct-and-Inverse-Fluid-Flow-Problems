@@ -41,5 +41,5 @@ you want to retrain the NN or not.
 Please note that further instructions or details for each experiment may be provided within their respective folders.
 
 Feel free to explore the code and adapt it to your own needs. If you have any questions or encounter any issues,
-please don't hesitate to contact the project author.
+please don't hesitate to contact the project author, martindefrutos2015@gmail.com
 
