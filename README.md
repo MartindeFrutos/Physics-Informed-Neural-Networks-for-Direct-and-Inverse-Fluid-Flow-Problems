@@ -15,6 +15,7 @@ There are four different experiments conducted:
 + Inverse 1 parameter
 + Inverse 2 parameter
 + Inverse free distribution
+![Velocity field](two-dimensional Euler fluid flow/4. Inverse problem 1 parameter data/Velocity field.svg)
 ### Two-dimensional Euler equations  
 The code in this section is more complex and follows a well-organized structure. 
 There are three scripts that define different classes used in this section: `Domain_classes.py` (contains classes associated with the domain,
