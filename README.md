@@ -30,6 +30,11 @@ The experiments conducted in this section are as follows:
 + Experiment 4 : Inverse problem for AL.
 + Experiment 5 : Shock wave formation. (not totally finised, future work)
 
+
+<p align="center">
+  <img src="Velocity-field.svg" alt="Example of velocity field in the 2D simulation">
+</p>
+
 ### Instructions 
 To run the code in this repository, please follow these steps:
 1. Clone the repository to your local machine.
