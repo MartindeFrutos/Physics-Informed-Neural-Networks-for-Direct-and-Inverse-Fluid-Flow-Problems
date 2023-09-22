@@ -28,13 +28,9 @@ The experiments conducted in this section are as follows:
 + Experiment 2 : Free-scale method. Testing the distance function on different domains 
 + Experiment 3 : Linear evolution method. Testing the boundary function on different domains
 + Experiment 4 : Inverse problem for AL.
-+ Experiment 5 : Shock wave formation. (not totally finised, future work)
++ Experiment 5 : Shock wave formation. (not totally finished, future work)
 
-
-<p align="center">
-  <img src="Velocity-field.svg" alt="Example of velocity field in the 2D simulation">
-</p>
-
+![Velocity field example of the 2D simulation](Velocity-field.svg)
 ### Instructions 
 To run the code in this repository, please follow these steps:
 1. Clone the repository to your local machine.
