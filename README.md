@@ -15,8 +15,6 @@ There are four different experiments conducted:
 + Inverse 1 parameter
 + Inverse 2 parameter
 + Inverse free distribution
-
-![Velocity field](Velocity-field.svg) 
 ### Two-dimensional Euler equations  
 The code in this section is more complex and follows a well-organized structure. 
 There are three scripts that define different classes used in this section: `Domain_classes.py` (contains classes associated with the domain,
@@ -31,6 +29,8 @@ The experiments conducted in this section are as follows:
 + Experiment 3 : Linear evolution method. Testing the boundary function on different domains
 + Experiment 4 : Inverse problem for AL.
 + Experiment 5 : Shock wave formation. (not totally finised, future work)
+
+![Velocity field](Velocity-field.svg) 
 ### Instructions 
 To run the code in this repository, please follow these steps:
 1. Clone the repository to your local machine.
