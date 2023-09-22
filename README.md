@@ -30,11 +30,6 @@ The experiments conducted in this section are as follows:
 + Experiment 4 : Inverse problem for AL.
 + Experiment 5 : Shock wave formation. (not totally finised, future work)
 
-<p align="center">
-  <img src="Velocity-field.svg" width="45%" alt="Descripción de la primera imagen">
-  <img src="Velocity-field.svg" width="45%" alt="Descripción de la segunda imagen">
-</p>
-
 ### Instructions 
 To run the code in this repository, please follow these steps:
 1. Clone the repository to your local machine.
